@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "babel-runtime": "5.8.24",
-    "fbjs": "facebook/fbjs#cb6c4ccd162bd45f3f32d5bf19514dbdc8297584",
+    "fbjs": "0.6.1",
     "react-static-container": "^1.0.0-alpha.1"
   },
   "peerDependencies": {
